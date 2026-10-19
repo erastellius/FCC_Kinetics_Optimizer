@@ -1,0 +1,14 @@
+# Secrets / SSH keys
+id_*
+*.pem
+*.key
+*.pub
+eval*
+
+# OS / Python junk
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large generated data
+data/gui_parallel_runs/
